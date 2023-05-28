@@ -1,7 +1,6 @@
-﻿static const uint numThreads = 8;
+﻿static const uint numThreads = 16;
 
-int _ChunkSize;
-int _Scale;
+int _ChunkSize = 128;
 
 int indexFromCoord(int x, int y, int z)
 {
