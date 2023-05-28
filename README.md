@@ -12,6 +12,9 @@
 - Octaves: 2-10 (Each subsequent octave has a smaller impact on the overall output)
 - Ground Percent: 0 - 1
 
+Resources:
+- Marching Cubes: https://polycoding.net/marching-cubes/
+- Chunk system: https://youtu.be/xlSkYjiE-Ck
 
 *Working on chunk system.*
 
